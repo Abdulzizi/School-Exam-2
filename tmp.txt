@@ -1,0 +1,21 @@
+Gambaran umum : 
+
+ADMIN :
+- Login Admin
+- CRUD Menu
+- View Transaction Data
+
+CUSTOMER :
+- Input Transaction Data (pemesanan menu tanpa login)
+
+TODO :
+- Admin (Selesai)
+- Order_list
+- food
+
+Password admin : 
+
+tambahkan filter format multer
+
+
+jawadazizi052@gmail.com = APALAH
