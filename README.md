@@ -37,7 +37,7 @@ After installing the dependencies, you can start experimenting with this project
 To run an example file, use the following command:
 
 ```bash
-node npm run dev / node index.js
+npm run dev / node index.js
 ```
 
 ## License
